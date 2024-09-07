@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-login-form/static/css/main.9b637eb7.css",
-    "main.js": "/react-login-form/static/js/main.c4be0eb1.js",
+    "main.css": "/react-login-form/static/css/main.0174a52a.css",
+    "main.js": "/react-login-form/static/js/main.76c9d8e1.js",
     "static/js/453.dc54f2c9.chunk.js": "/react-login-form/static/js/453.dc54f2c9.chunk.js",
     "static/media/linkedinImg.png": "/react-login-form/static/media/linkedinImg.cac56df46457a54e0c70.png",
     "static/media/zoomImg.png": "/react-login-form/static/media/zoomImg.0ff8c6309bd1ddeb2782.png",
@@ -20,12 +20,12 @@
     "static/media/eye-password-show-svgrepo-com.svg": "/react-login-form/static/media/eye-password-show-svgrepo-com.adf855e31121adba304dc21283b2cbfa.svg",
     "static/media/circle-information-svgrepo-com.svg": "/react-login-form/static/media/circle-information-svgrepo-com.5f167664df2ad0a553b624b9294672e9.svg",
     "static/media/facebook-logo.svg": "/react-login-form/static/media/facebook-logo.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
-    "main.9b637eb7.css.map": "/react-login-form/static/css/main.9b637eb7.css.map",
-    "main.c4be0eb1.js.map": "/react-login-form/static/js/main.c4be0eb1.js.map",
+    "main.0174a52a.css.map": "/react-login-form/static/css/main.0174a52a.css.map",
+    "main.76c9d8e1.js.map": "/react-login-form/static/js/main.76c9d8e1.js.map",
     "453.dc54f2c9.chunk.js.map": "/react-login-form/static/js/453.dc54f2c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b637eb7.css",
-    "static/js/main.c4be0eb1.js"
+    "static/css/main.0174a52a.css",
+    "static/js/main.76c9d8e1.js"
   ]
 }
