@@ -1,31 +1,37 @@
 {
   "files": {
-    "main.css": "/react-login-form/static/css/main.97f104a5.css",
-    "main.js": "/react-login-form/static/js/main.31c21bec.js",
+    "main.css": "/react-login-form/static/css/main.fc977e1c.css",
+    "main.js": "/react-login-form/static/js/main.06c04b71.js",
     "static/js/453.dc54f2c9.chunk.js": "/react-login-form/static/js/453.dc54f2c9.chunk.js",
+    "static/media/zoomAd.png": "/react-login-form/static/media/zoomAd.7b78b815fd8b235de59e.png",
     "static/media/linkedinImg.png": "/react-login-form/static/media/linkedinImg.cac56df46457a54e0c70.png",
     "static/media/zoomImg.png": "/react-login-form/static/media/zoomImg.0ff8c6309bd1ddeb2782.png",
     "static/media/zoom-img.png": "/react-login-form/static/media/zoom-img.1dd953ff443339d7ec26.png",
     "static/media/zoom-svgrepo-com.svg": "/react-login-form/static/media/zoom-svgrepo-com.93bc3183c86974352dafe2f5fa0ba5b5.svg",
     "static/media/linkedin.svg": "/react-login-form/static/media/linkedin.ba35e50da81ba6561c77d1fdcd061558.svg",
+    "static/media/smile-circle-svgrepo-com.svg": "/react-login-form/static/media/smile-circle-svgrepo-com.0ab840d92c31c61ec6fd1716a465670d.svg",
     "static/media/copyright.svg": "/react-login-form/static/media/copyright.ecff712cafbad1ccd5ba5da6588dd17d.svg",
+    "static/media/microphone.svg": "/react-login-form/static/media/microphone.0f504f4890b347aed48a0be8a83e2e31.svg",
     "static/media/github.svg": "/react-login-form/static/media/github.b72bc06d1d1dca51e1110f969c1063fb.svg",
     "static/media/icons8-linkedin.svg": "/react-login-form/static/media/icons8-linkedin.d670df15d9858d0b68ce9e96fd5e979f.svg",
+    "static/media/cancelCircle.svg": "/react-login-form/static/media/cancelCircle.cd7d0969b48d68c9c1a21793c79648ab.svg",
     "static/media/google-logo.svg": "/react-login-form/static/media/google-logo.9a7800d06783d80a1c12249a8ca58e9d.svg",
     "static/media/apple-logo.svg": "/react-login-form/static/media/apple-logo.0b23c3e4af79e33ee2d96a64d3b874d6.svg",
     "static/media/down-arrow.svg": "/react-login-form/static/media/down-arrow.c1fdb73cfc62c7f6b0e714b6387c74df.svg",
+    "static/media/document-svgrepo-com.svg": "/react-login-form/static/media/document-svgrepo-com.2a6b3d3fa636ffa7e14c01e3a834b52f.svg",
     "static/media/eye-password-hide-svgrepo-com.svg": "/react-login-form/static/media/eye-password-hide-svgrepo-com.6791fbb4b1ff28329acbe5af6a3c69f1.svg",
     "static/media/sso-logo.svg": "/react-login-form/static/media/sso-logo.511184de9f3cc2d39e4b3681a55681bd.svg",
     "index.html": "/react-login-form/index.html",
+    "static/media/downloadArrow.svg": "/react-login-form/static/media/downloadArrow.ee70f0c85d42533700f87d5008fb18a1.svg",
     "static/media/eye-password-show-svgrepo-com.svg": "/react-login-form/static/media/eye-password-show-svgrepo-com.adf855e31121adba304dc21283b2cbfa.svg",
     "static/media/circle-information-svgrepo-com.svg": "/react-login-form/static/media/circle-information-svgrepo-com.5f167664df2ad0a553b624b9294672e9.svg",
     "static/media/facebook-logo.svg": "/react-login-form/static/media/facebook-logo.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
-    "main.97f104a5.css.map": "/react-login-form/static/css/main.97f104a5.css.map",
-    "main.31c21bec.js.map": "/react-login-form/static/js/main.31c21bec.js.map",
+    "main.fc977e1c.css.map": "/react-login-form/static/css/main.fc977e1c.css.map",
+    "main.06c04b71.js.map": "/react-login-form/static/js/main.06c04b71.js.map",
     "453.dc54f2c9.chunk.js.map": "/react-login-form/static/js/453.dc54f2c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97f104a5.css",
-    "static/js/main.31c21bec.js"
+    "static/css/main.fc977e1c.css",
+    "static/js/main.06c04b71.js"
   ]
 }
